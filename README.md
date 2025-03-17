@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kiwongg
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on with professional programmer
+- 💞️ I’m looking to collaborate with professional programmer
 - 📫 How to reach me . gurungasmit09@gmail.com
 
 <!---
